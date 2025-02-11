@@ -1,0 +1,9 @@
+Bot Testing Report - 2025-02-11 19:55:51
+==================================================
+
+Some tests failed (exit code: 4)
+
+Test Categories:
+- Bot Commands
+- Bot Connection
+- Bot Events
